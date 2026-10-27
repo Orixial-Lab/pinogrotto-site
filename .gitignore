@@ -1,0 +1,8 @@
+tools/.fn.mjs
+tools/.pid
+tools/.dev.log
+*.sqlite
+.DS_Store
+node_modules/
+.wrangler/
+.dev.vars

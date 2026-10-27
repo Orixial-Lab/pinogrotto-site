@@ -1,0 +1,31 @@
+# PinoGrotto
+
+> PinoGrotto is an allocation and export merchant for South African estate wines. It buys wine at release, directly from estates, and delivers it with full bottle-by-bottle provenance to yachts, private aircraft, residences, hotels and cruise lines internationally. Everything ships from South Africa.
+
+Contact: terrilyn@pinogrotto.com. Every client is looked after by one Allocation Steward, who replies personally within one working day.
+
+## What PinoGrotto does
+
+- Allocations: wines are bought at release from South African estates (including Swartland, Stellenbosch and Hemel-en-Aarde). Each season's allocations are finite and close when every case is placed.
+- Provenance: every bottle carries a Bottle Passport recording the estate's soil, harvest, bottling, allocation, export, transit and handover.
+- Delivery: wine is shipped from the Cape to ports, private aviation terminals, residences and venues. Duty and customs are confirmed with the client before shipping. Yachts should plan about three weeks before each arrival.
+
+## Estates
+
+PinoGrotto does not name its estates publicly. Each is identified by number and by the soil its vines grow in. Every estate is a registered South African producer, and clients' advisors can confirm identities privately, under confidentiality, before buying.
+
+## Who it serves
+
+- Yacht crews (chief stews and captains): season planning port by port with the Voyage Planner.
+- Private aircraft and residences: a managed cellar, restocked before it runs low.
+- Family offices: allocations with full records and read-only reporting.
+- Hotels and cruise lines: a standing cellar secured across vintages.
+
+## Pages
+
+- [Home and this season's allocations](https://pinogrotto.com/)
+- [The Cape at sea level: how the Cape's climate shapes the wines](https://pinogrotto.com/#/cape)
+- [Bottle Passport: how provenance is recorded](https://pinogrotto.com/#/provenance)
+- [Find your match: Cape equivalents of famous wines](https://pinogrotto.com/#/translate)
+- [Trade desk: Voyage Planner for yacht crews](https://pinogrotto.com/#/trade)
+- [Request an introduction](https://pinogrotto.com/#/request)

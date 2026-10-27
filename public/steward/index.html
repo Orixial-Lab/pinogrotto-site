@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Steward sign-in, PinoGrotto</title>
+<style>
+  :root{--ground:#EFEFE8;--ink:#1C221E;--muted:#58625B;--fynbos:#34413A;--sand:#C9A878}
+  @media (prefers-color-scheme:dark){:root{--ground:#161B18;--ink:#ECEDE6;--muted:#A3AA9F}}
+  body{margin:0;min-height:100vh;display:grid;place-items:center;background:var(--ground);color:var(--ink);font:17px/1.6 Georgia,'Times New Roman',serif;padding:16px;box-sizing:border-box}
+  main{max-width:420px;text-align:center}
+  h1{font-weight:400;font-size:32px;margin:0 0 12px}
+  p{margin:0 0 16px;color:var(--muted);font-family:system-ui,-apple-system,'Segoe UI',sans-serif}
+  a{color:var(--ink)}
+</style>
+</head>
+<body>
+<main>
+  <h1>PinoGrotto</h1>
+  <p id="msg">You're signed in. Opening the Steward desk…</p>
+  <p><a href="/#/desk">Open the Steward desk</a> · <a href="/cdn-cgi/access/logout">Sign out</a></p>
+</main>
+<script>
+  // Cloudflare Access only lets a signed-in Steward reach this page.
+  // Remember that this browser belongs to a Steward, so the site checks for the desk.
+  try { localStorage.setItem("pg-steward", "1"); } catch (e) {}
+  setTimeout(function () { location.replace("/#/desk"); }, 600);
+</script>
+</body>
+</html>
