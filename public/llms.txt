@@ -23,9 +23,9 @@ PinoGrotto does not name its estates publicly. Each is identified by number and 
 
 ## Pages
 
-- [Home and this season's allocations](https://pinogrotto.com/)
-- [The Cape at sea level: how the Cape's climate shapes the wines](https://pinogrotto.com/#/cape)
-- [Bottle Passport: how provenance is recorded](https://pinogrotto.com/#/provenance)
-- [Find your match: Cape equivalents of famous wines](https://pinogrotto.com/#/translate)
-- [Trade desk: Voyage Planner for yacht crews](https://pinogrotto.com/#/trade)
-- [Request an introduction](https://pinogrotto.com/#/request)
+- [Home and this season's allocations](https://www.pinogrotto.com/)
+- [The Cape at sea level: how the Cape's climate shapes the wines](https://www.pinogrotto.com/#/cape)
+- [Bottle Passport: how provenance is recorded](https://www.pinogrotto.com/#/provenance)
+- [Find your match: Cape equivalents of famous wines](https://www.pinogrotto.com/#/translate)
+- [Trade desk: Voyage Planner for yacht crews](https://www.pinogrotto.com/#/trade)
+- [Request an introduction](https://www.pinogrotto.com/#/request)

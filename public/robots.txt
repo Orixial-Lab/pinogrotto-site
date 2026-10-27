@@ -4,4 +4,4 @@ Allow: /
 Disallow: /steward
 Disallow: /api/
 
-Sitemap: https://pinogrotto.com/sitemap.xml
+Sitemap: https://www.pinogrotto.com/sitemap.xml

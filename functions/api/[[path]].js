@@ -180,7 +180,7 @@ async function notify(env, r) {
     r.about ? `About: ${r.about}` : "",
     r.note ? `Note: ${r.note}` : "",
     ``,
-    `Open the Steward desk: https://pinogrotto.com/steward`,
+    `Open the Steward desk: https://pinogrotto-site.pages.dev/steward`,
   ].filter((l) => l !== "");
   try {
     await fetch("https://api.resend.com/emails", {
